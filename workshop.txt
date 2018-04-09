@@ -1,0 +1,21 @@
+Workshop:
+
+Git basics
+-> What is git?
+-> Why should we use it?
+
+-> What is a commit?
+Tornar permanente um conjunto de mudanças
+
+Push and Pull? Who needs that?
+
+Branching? Merge? Woot?
+
+Git cmd:
+A few examples
+
+Git GUI:
+The beaty of GitKraken or other GUIs
+
+GitFlow:
+Using Git as a team
